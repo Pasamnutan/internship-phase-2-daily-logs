@@ -2,7 +2,7 @@
 SELECT Name, Continent, Population FROM country;
 
 -- 2
-SELECT Name AS 'Country Name', Continent, Population FROM country AS c;
+SELECT Name AS 'Country Name', Continent, Population FROM country ASc;
 
 -- 3
 SELECT Name, Population FROM country WHERE Continent = 'Europe' AND Population > 10000000;
