@@ -1,5 +1,5 @@
 # internship--phase-2-daily-logs
-This repository documents our progress during Phase 2 of the internship project. Each day's work is organized into folders labeled from day -5 to the final day (Day X). Within each folder, you'll find discussions, SQL coding, programming tasks, and minutes of meetings.
+This repository documents our progress during Phase 2 of the internship project. Each day's work is organized into folders labeled from day -5 to the final day (Day 12). Within each folder, you'll find discussions, SQL coding, programming tasks, and minutes of meetings.
 
 The discussions file records our daily conversations, focusing on SQL coding, programming tasks, and related topics. We've implemented various SQL functions like joins, aggregate functions, and wildcard functions, which are documented in the SQL coding files. Additionally, any programming tasks undertaken are documented for reference.
 
